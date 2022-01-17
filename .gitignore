@@ -1,3 +1,13 @@
+# optional venv for python3
+.fp16_wrapper
+
+# test to check setup, written by fp16_wrapper_setup.sh
+.fp16_wrapper_test.py
+fp16_wrapper
+fp16_wrapper.py
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
